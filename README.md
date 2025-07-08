@@ -15,7 +15,7 @@ Crear un portafolio basado de una plantilla de bootstrap escogida  por el estudi
                   
                   			Materia: Desarrollo De Software Para La Toma De Decisiones
                      
-                  			“Login Enlace de repositorio de Github y/o GitHub Pages”
+                  			“Portafolio Enlace de repositorio de Github y GitHub Pages”
                   
                   				Profesor: Martinez Nieto Adelina
                   	
@@ -156,7 +156,7 @@ CAPTURAS DE PANTALLA:
 
 GitHub Pages: 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**https://itahy.github.io/portafolio_Ita/**
+**[https://itahy.github.io/portafolio_Ita/index.html](https://itahy.github.io/portafolio_Ita/index.html)**
 
 
 
