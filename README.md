@@ -118,6 +118,8 @@ Qué menús la componen, que plantilla están usando:
 * Librerías: Bootstrap, jQuery, Animate.css, Owl Carousel, Lightbox, Typed.js, FontAwesome/Ionicons.
 * Bien comentado, listo para personalizar y escalar.
 
+![image](https://github.com/user-attachments/assets/5186373d-032d-4cc6-912a-a93296a70972)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CAPTURAS DE PANTALLA: 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
